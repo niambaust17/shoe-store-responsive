@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.banner {
+  background-color: rgba(255, 192, 203, 0.1);
+}
+#colored-text {
+  color: #fa804c;
+}
+.navbar-toggler-icon {
+  border: 0;
+}
+.casual-product {
+  border: 0;
+  border-radius: 20px;
+  box-shadow: 10px 10px 40px rgba(211, 211, 211, 0.5);
+  background-color: #ffffff;
+}
+.casual-product:hover > img {
+  background-color: #ffffff;
+  transform: rotate(4.14deg);
+}
+.casual-product > img {
+  border-radius: 20px;
+  background-color: #f1f1f1;
+  height: 350px;
+}
+.casual-product-footer {
+  border-top: 0;
+  background-color: #ffffff;
+}
+.card {
+  border: 0;
+}
+.card-detail {
+  background-color: lightgray;
+}
+.contact {
+  background-color: rgba(255, 192, 203, 0.1);
+  border-radius: 15px;
+}
+.btn-email {
+  background-color: #db566a;
+  color: white;
+}
